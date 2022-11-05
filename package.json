@@ -2,8 +2,11 @@
   "name": "family-tree-core",
   "version": "1.0.0",
   "description": "core family tree",
-  "main": "index.ts",
+  "main": "dist/index.ts",
+  "types": "dist/index.d.ts",
   "scripts": {
+    "build": "tsc",
+    "prepublish": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
