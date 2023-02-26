@@ -1,6 +1,6 @@
 {
   "name": "@kkamalyesh/family-tree-core",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "core family tree",
   "main": "dist/index.js",
   "browser": "./dist/index.js",
